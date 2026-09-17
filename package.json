@@ -1,0 +1,43 @@
+{
+  "name": "pi-zh-slash",
+  "version": "0.1.0",
+  "description": "Chinese slash commands for Pi: type 、设置 instead of /settings. Aliases, IME, and autocomplete without switching input source.",
+  "keywords": [
+    "pi-package",
+    "pi-extension",
+    "chinese",
+    "slash",
+    "autocomplete",
+    "ime",
+    "i18n",
+    "顿号"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "files": [
+    "extensions",
+    "aliases.example.json",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "pi": {
+    "extensions": [
+      "./extensions/index.ts"
+    ]
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youxia-2025/pi-zh-slash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/youxia-2025/pi-zh-slash/issues"
+  },
+  "homepage": "https://github.com/youxia-2025/pi-zh-slash#readme"
+}
