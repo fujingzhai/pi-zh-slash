@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youxia-2025/pi-zh-slash.git"
+    "url": "git+https://github.com/fujingzhai/pi-zh-slash.git"
   },
   "bugs": {
-    "url": "https://github.com/youxia-2025/pi-zh-slash/issues"
+    "url": "https://github.com/fujingzhai/pi-zh-slash/issues"
   },
-  "homepage": "https://github.com/youxia-2025/pi-zh-slash#readme"
+  "homepage": "https://github.com/fujingzhai/pi-zh-slash#readme"
 }

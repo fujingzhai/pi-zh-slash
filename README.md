@@ -15,7 +15,7 @@ pi install npm:pi-zh-slash
 或：
 
 ```bash
-pi install git:github.com/youxia-2025/pi-zh-slash
+pi install git:github.com/fujingzhai/pi-zh-slash
 ```
 
 装完 `/reload` 或新开会话。
