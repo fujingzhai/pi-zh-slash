@@ -1,6 +1,6 @@
 {
   "name": "pi-zh-slash",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Chinese slash commands for Pi: type 、设置 instead of /settings. Aliases, IME, and autocomplete without switching input source.",
   "keywords": [
     "pi-package",
